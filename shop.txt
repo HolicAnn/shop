@@ -1,0 +1,6 @@
+
+ access_key: 'hngh71R29yRS5QgFJYbm70Ssaao8gcF3jWv--npm',      // 在七牛密钥管理中获取
+        secret_key: 'EOjFL82mNt51W19xtWlIFkgZRDFIR7_1-x4IFbo1',    // 在七牛密钥管理中获取
+        bucket: 'hahaha123123',                    // 请填自己的bucket的名称
+        domain: 'http://mini.sylvia.org.cn/'                         // 请填自己的domain域名
+    },
